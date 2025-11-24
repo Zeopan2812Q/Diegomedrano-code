@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zeopan2812q.github.io/Diegomedrano-code/sitemap.xml
